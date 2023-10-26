@@ -4,5 +4,5 @@ Merge Sort (Birleştirme Sıralaması), diziyi ardışık olarak en küçük alt
 [16,21,11,8,12,22] -> Merge Sort
 
 Soru 1)Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
-
+> ![](Merge.png)
 Soru 2) Big-O gösterimini yazınız.
